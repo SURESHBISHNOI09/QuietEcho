@@ -139,7 +139,7 @@ Making the world more accessible through AI technology, ensuring that critical a
 ## 🎮 Live Demo
 
 ### 🌐 **Production Website**
-**[QuietEcho Live Demo](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/516bc1bb89876b551884ad34806633e7/cfb03c35-d8d2-4582-ada7-835ae299c3e7/index.html)**
+**[QuietEcho Live Demo](https://quietecho.netlify.app/)**
 
 ### Features to Explore:
 - **Stunning Homepage** with particle animations
@@ -203,7 +203,7 @@ Making the world more accessible through AI technology, ensuring that critical a
 ## 👨‍💻 Developer Information
 
 ### About the Developer
-**Alex Chen** - Full-Stack Developer & AI Enthusiast
+**Suresh Bishnoi** - Full-Stack Developer & AI Enthusiast
 
 - **Role**: Computer Science Student & Accessibility Technology Advocate
 - **Expertise**: React, AI/ML Integration, Accessibility Design, Healthcare Technology
@@ -264,12 +264,6 @@ We welcome contributions from developers, designers, and accessibility advocates
 
 ## 📞 Support & Community
 
-### Get Help
-- **Email**: support@quietecho.com
-- **Discord**: [QuietEcho Community](https://discord.gg/quietecho)
-- **Documentation**: [docs.quietecho.com](https://docs.quietecho.com)
-- **FAQ**: Available in the app and website
-
 ### Community
 - **User Forums** - Share experiences and tips
 - **Developer Discord** - Technical discussions
@@ -290,7 +284,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-### 🌟 Made with ❤️ for the Accessibility Community
 
 **QuietEcho** - Transforming how the deaf community experiences the world through innovative AI technology.
 
@@ -298,10 +291,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-📞 **Contact**: [alex.chen@quietecho.com](mailto:alex.chen@quietecho.com)  
-🌐 **Website**: [https://quietecho.com](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/516bc1bb89876b551884ad34806633e7/cfb03c35-d8d2-4582-ada7-835ae299c3e7/index.html)  
-🐙 **GitHub**: [@alexchen](https://github.com/alexchen)  
-
+📞 **Contact**: sksmovies11@gmail.com
 ---
 
 *Last updated: September 7, 2025*
